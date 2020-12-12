@@ -9,4 +9,4 @@ github.com/burakcantemizel/Prolab4-GezginKargoProblemi
 github.com/burakcantemizel/Prolab5-SikistirmaAlgoritmalari
 github.com/burakcantemizel/Prolab6-NetflixVTYS
 github.com/burakcantemizel/Yazlab1-AltinToplamaOyunu
-github.com/burakcantemizel/Yazlab2-MultithreadAsansorSistemi
+www.github.com/burakcantemizel/Yazlab2-MultithreadAsansorSistemi
